@@ -1,0 +1,5 @@
+*.o
+a.out
+Parser
+y.tab.cpp
+lex.yy.cpp
