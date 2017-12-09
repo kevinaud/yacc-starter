@@ -4,4 +4,3 @@ Parser
 y.tab.cpp
 y.tab.h
 lex.yy.cpp
-lex.yy.h
